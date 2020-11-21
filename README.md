@@ -46,5 +46,6 @@ The input data format is a `.csv` file, and the active and inactive compounds th
 3. Haider, N. (2010). Functionality pattern matching as an efficient complementary structure/reaction search tool: an open-source approach. Molecules, 15(8), 5079-5092.
 4. Merget, B., Turk, S., Eid, S., Rippmann, F., & Fulle, S. (2017). Profiling prediction of kinase inhibitors: toward the virtual assay. Journal of medicinal chemistry, 60(1), 474-485.
 
-
+## Contact
+youweifan1028@gmail.com
 
