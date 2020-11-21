@@ -13,7 +13,7 @@ This Python script is used to train and test deep neural networks model for pred
 
 ## Requirements
 
-You can install from either PyPI or conda-forge. Here I use [Anaconda](https://www.anaconda.com/) as the platform for operation and management.
+You can install from either PyPI or conda-forge. Here used [Anaconda](https://www.anaconda.com/) as the platform for operation and management.
 
 - [tensorflow-gpu](https://www.tensorflow.org/install/gpu) > 1.14  
 `conda install -c anaconda tensorflow-gpu`  
