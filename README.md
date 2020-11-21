@@ -10,6 +10,7 @@ This Python script is used to train and test deep neural networks model for pred
 - [Requirements](#Requirements)
 - [Data Specification](#Data-Specification)
 - [Reference](#Reference)
+- [Contact](#Contact)
 
 ## Requirements
 
