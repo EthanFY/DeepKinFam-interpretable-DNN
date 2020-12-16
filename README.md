@@ -2,7 +2,7 @@
 
 ## Overview 
 
-This Python script is used to train and test deep neural networks model for prediction of kinase family inhibitors (KFI), and uses the DeepSHAP algorithm to calculate the contribution of each compound feature in the model to facilitate model interpretation. Deep neural networks model will be built by Keras with tensorflow, and use [NVIDIA](https://developer.nvidia.com/) GPU for calculations. You can set almost model hyper-parameters as you want. Compound data must be written as csv file format (see [Data Specification](#Data Specification) for details). 
+This Python script is used to train and test deep neural networks model for  prediction of kinase family inhibitors (KFI), and uses the DeepSHAP algorithm to calculate the contribution of each compound feature in the model to facilitate model interpretation. Deep neural networks model will be built by Keras with tensorflow, and use [NVIDIA](https://developer.nvidia.com/) GPU for calculations. You can set almost model hyper-parameters as you want. Compound data must be written as csv file format (see [Data Specification](#Data Specification) for details). 
 
 !["DeepKinFam-interpretable-DNN"](https://github.com/EthanFY/DeepKinFam-interpretable-DNN/blob/main/docs/artwork/DNN_structure.png?raw=true "DeepKinFam-interpretable-DNN")
 
